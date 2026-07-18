@@ -35,6 +35,14 @@ Para poblar la base de datos inicial, se realizó ingeniería inversa sobre la c
 sqlite3 backup_antiguo.db -header -csv "SELECT nombre_producto FROM inventario;" > inventario_limpio.csv
 ```
 
+## 📸 Demostración Visual
+
+Aquí puedes ver la interfaz principal de la aplicación optimizada para el uso con una sola mano, incluyendo el inventario general y las acciones rápidas mediante gestos (swipe-to-edit):
+
+![Vista de la lista de artículos](assets/edited-image.png)
+
+![Acción de deslizar para editar](assets/imagen_10.png)
+
 ## 👨‍💻 Autor
 
 LinkedIn: https://www.linkedin.com/in/enrique-b%C3%A1ez-galeras-b56278395/
