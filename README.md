@@ -39,9 +39,7 @@ sqlite3 backup_antiguo.db -header -csv "SELECT nombre_producto FROM inventario;"
 
 Aquí puedes ver la interfaz principal de la aplicación optimizada para el uso con una sola mano, incluyendo el inventario general y las acciones rápidas mediante gestos (swipe-to-edit):
 
-![Vista de la lista de artículos](assets/menu-principal.png)
-
-![Acción de deslizar para editar](assets/editar-producto.png)
+![Vista de la lista de artículos](assets/menu-principal.png) ![Acción de deslizar para editar](assets/editar-producto.png)
 
 ## 👨‍💻 Autor
 
