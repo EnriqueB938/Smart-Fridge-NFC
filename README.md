@@ -1,4 +1,4 @@
-# 🛒 Smart-Fridge-NFC: IoT Grocery Management System
+# 🛒 Smart-Fridge-NFC: Sistema de compra de productos alimenticios.
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-PWA-blue)
@@ -43,4 +43,5 @@ Aquí puedes ver la interfaz principal de la aplicación optimizada para el uso 
 ## 👨‍💻 Autor
 
 LinkedIn: https://www.linkedin.com/in/enrique-b%C3%A1ez-galeras-b56278395/
+
 GitHub: @EnriqueB938
