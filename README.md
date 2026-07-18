@@ -34,6 +34,8 @@ Para poblar la base de datos inicial, se realizó ingeniería inversa sobre la c
 # Ejemplo del comando utilizado para la extracción de la base de datos legacy
 sqlite3 backup_antiguo.db -header -csv "SELECT nombre_producto FROM inventario;" > inventario_limpio.csv
 
+
+
 ## 👨‍💻 Autor
 
 LinkedIn: https://www.linkedin.com/in/enrique-b%C3%A1ez-galeras-b56278395/
