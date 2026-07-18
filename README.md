@@ -31,7 +31,6 @@ Un sistema de gestión de inventario doméstico e integración IoT diseñado par
 Para poblar la base de datos inicial, se realizó ingeniería inversa sobre la copia de seguridad de la aplicación móvil antigua. Se utilizó un script de Bash para extraer y limpiar la información de la base de datos SQLite original:
 
 ```bash
-# Ejemplo del comando utilizado para la extracción de la base de datos legacy
 sqlite3 backup_antiguo.db -header -csv "SELECT nombre_producto FROM inventario;" > inventario_limpio.csv
 ```
 
